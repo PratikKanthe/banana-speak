@@ -9,7 +9,7 @@ function getTranslationURL(input){
 
 function errorHandler(error){
     console.log("error occured", error);
-    alert("ApI provides only 10 translates in 1 hr");
+    alert("API provides only 10 translates in 1 hr");
 }
 
 function clickEventHandler(){
