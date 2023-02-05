@@ -22,4 +22,15 @@
 .container .text-input{
     display: block;
     width: 90%;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.btn{
+    margin-top: 1rem;
+    padding: .5rem;
+    border-radius: 1rem;
+    color: white;
+    background-color: yellow;
+    border: 2px solid yellow;
 }
