@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    background-color: yellow;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.section-input{
+    margin: 2rem;
+}
+
+.container h1{
+    margin-bottom: 1rem;
+}
+
+.container .text-input{
+    display: block;
+    width: 90%;
+}
