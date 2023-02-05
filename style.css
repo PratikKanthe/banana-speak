@@ -22,7 +22,13 @@
     margin: 2rem;
 }
 
-.container h1{
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .heading h1{
     margin-bottom: 1rem;
     font-family: 'Pacifico', cursive;
 }
