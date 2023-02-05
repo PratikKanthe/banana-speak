@@ -29,11 +29,13 @@
 }
 .heading img{
     height: 20vh;
-    width: 20vw;
+    width: 60vw;
 }
 .container h1{
     margin-bottom: 1rem;
     font-family: 'Pacifico', cursive;
+    text-align: center;
+    color: var(--primary-color);
 }
 
 
